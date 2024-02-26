@@ -1,0 +1,24 @@
+<script type="text/javascript">
+
+编译性语言c c++ 
+
+优点:快
+不足:移植性不好(不跨平台)
+
+.java -- javac --> 编译 -->.class -->jvm --解释执行
+
+解释性语言 javascript php python 
+
+优点:跨平台
+不足:稍微慢
+
+主流浏览器                  
+IE              trident
+Chrome          webkit/blink
+firefox         Gecko
+Opera           presto
+Safari          webkit
+
+</script>
+
+
