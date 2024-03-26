@@ -3,6 +3,7 @@
  * @param {object} options
  *  from ==>起始值;
  *  to   ==>结束值 
+ *  totalMS ==>变化的总时长//默认1000ms
  *  duration ==多少时间变化一次(ms)//默认15ms
  */
 function createAnimation(options) {
